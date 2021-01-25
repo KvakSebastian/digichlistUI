@@ -1,0 +1,26 @@
+language: node_js
+node_js:
+  - 12
+sudo: true
+
+addons:
+  chrome: stable
+
+branches:
+  only:
+    - master
+
+before_script:
+  - npm install
+
+script:
+  - npm run build
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  local_dir: build
+  on:
+    branch: master
