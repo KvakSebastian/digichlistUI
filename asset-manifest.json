@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digichlistUI/static/css/main.ed614075.chunk.css",
+    "main.js": "/digichlistUI/static/js/main.b81c1b55.chunk.js",
+    "main.js.map": "/digichlistUI/static/js/main.b81c1b55.chunk.js.map",
+    "runtime-main.js": "/digichlistUI/static/js/runtime-main.3da859c7.js",
+    "runtime-main.js.map": "/digichlistUI/static/js/runtime-main.3da859c7.js.map",
+    "static/js/2.7c7df1fd.chunk.js": "/digichlistUI/static/js/2.7c7df1fd.chunk.js",
+    "static/js/2.7c7df1fd.chunk.js.map": "/digichlistUI/static/js/2.7c7df1fd.chunk.js.map",
+    "static/js/3.143559fc.chunk.js": "/digichlistUI/static/js/3.143559fc.chunk.js",
+    "static/js/3.143559fc.chunk.js.map": "/digichlistUI/static/js/3.143559fc.chunk.js.map",
+    "index.html": "/digichlistUI/index.html",
+    "static/css/main.ed614075.chunk.css.map": "/digichlistUI/static/css/main.ed614075.chunk.css.map",
+    "static/js/2.7c7df1fd.chunk.js.LICENSE.txt": "/digichlistUI/static/js/2.7c7df1fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3da859c7.js",
+    "static/js/2.7c7df1fd.chunk.js",
+    "static/css/main.ed614075.chunk.css",
+    "static/js/main.b81c1b55.chunk.js"
+  ]
+}
